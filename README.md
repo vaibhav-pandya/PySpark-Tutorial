@@ -7,14 +7,14 @@ Master **Apache Spark with Python (PySpark)** using **Databricks** in this hands
 ---
 
 ## 📖 Table of Contents  
-- [Introduction](#introduction)  
-- [Features](#features)  
-- [Technologies Used](#technologies-used)  
-- [Getting Started](#getting-started)  
-- [Running PySpark](#running-pyspark)    
-- [Resources & Learning](#resources--learning)  
-- [Contributing](#contributing)  
-- [Contact](#contact)  
+- [Introduction](#📌-introduction)  
+- [Features](#🔥-features)  
+- [Technologies Used](#🛠️-technologies-used)  
+- [Getting Started](#🚀-getting-started)  
+- [Running PySpark](#⚡-running-pyspark)  
+- [Resources & Learning](#📖-resources--learning)  
+- [Contributing](#🤝-contributing)  
+- [Contact](#📞-contact) 
 
 ---
 
