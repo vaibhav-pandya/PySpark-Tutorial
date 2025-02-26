@@ -6,16 +6,6 @@ Master **Apache Spark with Python (PySpark)** using **Databricks** in this hands
 
 ---
 
-## 📖 Table of Contents  
-- [Introduction](#📌-introduction)  
-- [Features](#🔥-features)  
-- [Technologies Used](#🛠️-technologies-used)  
-- [Getting Started](#🚀-getting-started)  
-- [Running PySpark](#⚡-running-pyspark)  
-- [Resources & Learning](#📖-resources--learning)  
-- [Contributing](#🤝-contributing)  
-- [Contact](#📞-contact)
-
   ## 📖 Table of Contents  
 - [Introduction](#introduction)  
 - [Features](#features)  
@@ -37,7 +27,7 @@ This tutorial will help you **set up, run, and master PySpark** efficiently usin
 ---
 
 ## 🔥 Features  
-
+<a name="features"></a>
 ✅ **Introduction to PySpark & Big Data**  
 ✅ **Setting up PySpark (Locally & on Databricks)**  
 ✅ **Understanding RDDs, DataFrames, and SQL**  
@@ -47,7 +37,7 @@ This tutorial will help you **set up, run, and master PySpark** efficiently usin
 ---
 
 ## 🛠️ Technologies Used  
-
+<a name="technologies-used"></a>
 This repository makes use of the following tools and technologies:  
 
 | **Technology**  | **Usage** |  
@@ -62,7 +52,7 @@ This repository makes use of the following tools and technologies:
 ---
 
 ## 🚀 Getting Started  
-
+<a name="getting-started"></a>
 To begin using PySpark, follow these steps:  
 
 1. **Install PySpark** on your local machine or use **Databricks** for a cloud-based approach.  
@@ -74,7 +64,7 @@ To begin using PySpark, follow these steps:
 ---
 
 ## ⚡ Running PySpark  
-
+<a name="running-pyspark"></a>
 ### **Locally**  
 - Install PySpark and configure your environment.  
 - Use Jupyter Notebook or a Python script to run PySpark code.  
@@ -88,7 +78,7 @@ To begin using PySpark, follow these steps:
 
 
 ## 📖 Resources & Learning  
-
+<a name="resources--learning"></a>
 I learned PySpark from **Ansh Lamba’s YouTube tutorial**. You can check it out here:  
 📌 **[Ansh Lamba's PySpark Tutorial](https://www.youtube.com/watch?v=94w6hPk7nkM)** 
 
@@ -96,7 +86,7 @@ I learned PySpark from **Ansh Lamba’s YouTube tutorial**. You can check it out
 
 
 ## 🤝 Contributing  
-
+<a name="contributing"></a>
 Contributions are **welcome**! If you’d like to improve this repository:  
 
 1. **Fork** this repository.  
@@ -108,6 +98,7 @@ Contributions are **welcome**! If you’d like to improve this repository:
 
 
 ## 📞 Contact
+<a name="contact"></a>
 For any queries or feedback, please reach out to -<br>
 Email: vaibhavpandya2903@gmail.com<br>
 [LinkedIn](https://www.linkedin.com/in/vaibhavpandya2903/) 
