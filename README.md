@@ -11,13 +11,10 @@ Master **Apache Spark with Python (PySpark)** using **Databricks** in this hands
 - [Features](#features)  
 - [Technologies Used](#technologies-used)  
 - [Getting Started](#getting-started)  
-- [Running PySpark](#running-pyspark)  
-- [Hands-on Tutorials](#hands-on-tutorials)  
-- [Best Practices](#best-practices)  
+- [Running PySpark](#running-pyspark)    
 - [Resources & Learning](#resources--learning)  
 - [Contributing](#contributing)  
-- [License](#license)  
-- [Connect With Me](#connect-with-me)  
+- [Contact](#contact)  
 
 ---
 
@@ -83,7 +80,7 @@ To begin using PySpark, follow these steps:
 ## 📖 Resources & Learning  
 
 I learned PySpark from **Ansh Lamba’s YouTube tutorial**. You can check it out here:  
-📌 **[Ansh Lamba's PySpark Tutorial](#)** *(https://www.youtube.com/watch?v=94w6hPk7nkM)*
+📌 **[Ansh Lamba's PySpark Tutorial(https://www.youtube.com/watch?v=94w6hPk7nkM)** 
 
 ---
 
