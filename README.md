@@ -1,4 +1,4 @@
-# 🚀 PySpark Tutorial with Databricks  
+# PySpark Tutorial with Databricks  
 
 Master **Apache Spark with Python (PySpark)** using **Databricks** in this hands-on tutorial. This repository covers everything from **setup to advanced data processing techniques** to help you efficiently work with large datasets.  
 
@@ -14,12 +14,22 @@ Master **Apache Spark with Python (PySpark)** using **Databricks** in this hands
 - [Running PySpark](#⚡-running-pyspark)  
 - [Resources & Learning](#📖-resources--learning)  
 - [Contributing](#🤝-contributing)  
-- [Contact](#📞-contact) 
+- [Contact](#📞-contact)
+
+  ## 📖 Table of Contents  
+- [Introduction](#introduction)  
+- [Features](#features)  
+- [Technologies Used](#technologies-used)  
+- [Getting Started](#getting-started)  
+- [Running PySpark](#running-pyspark)  
+- [Resources & Learning](#resources--learning)  
+- [Contributing](#contributing)  
+- [Contact](#contact) 
 
 ---
 
 ## 📌 Introduction  
-
+<a name="introduction"></a>
 Apache Spark is an open-source **distributed computing** system designed for **big data processing and analytics**. PySpark allows users to interact with Spark using **Python**, making it a powerful tool for **data scientists and analysts**.  
 
 This tutorial will help you **set up, run, and master PySpark** efficiently using **both local environments and Databricks**.  
